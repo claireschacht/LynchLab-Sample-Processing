@@ -65,8 +65,8 @@ Navigate to the Lynch Lab Airtable by logging in with the lab login credentials 
 The Lynch Lab Airtable base and Project-specific bases are for sample check-in/check-out (including eLabJournal), experiment progress tracking, and any study relevant documents. 
 
 #### b. Visual Diagram 
+![Airtable Layout needs update](https://user-images.githubusercontent.com/82829415/140583794-53dbac1d-f0ed-4649-9346-eb2a4177bff9.png)
 
-<img src="docs/assets/Airtable Layout new.png">
 
 #### c.	Projects and Sample Intake:
 
@@ -119,8 +119,8 @@ Lynch Lab Projects page breaks into a variety of folders for each project. You c
 ElabJoural is our sample intake and freezer inventory platform. Here you sample intake, print labels, and assign a permanent home for samples logged. It is the interface between Airtable and organization of samples. 
 
 #### b.	Visual Diagram
+![Elabjournal diagram](https://user-images.githubusercontent.com/82829415/140583827-b594c7be-abc8-480b-802a-32318ead0b8d.png)
 
-<img src="docs/assets/Elabjournal diagram.png">
 
 #### c.	Sample intake
 
