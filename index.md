@@ -96,7 +96,8 @@ Lynch Lab Projects page breaks into a variety of folders for each project. You c
 
 #### b.	Visual Diagram
 
-<img src="">
+![Benchling diagram](https://user-images.githubusercontent.com/82829415/140583281-a40aa4b3-93da-430a-9008-59cc6f4bbceb.png)
+
 
 #### c.	Account Navigation
 
@@ -111,8 +112,7 @@ Lynch Lab Projects page breaks into a variety of folders for each project. You c
 *	Fill in the “Notes” tab with your experiment notes and information necessary. It is very important to you keep the log of specific samples used by filling in the template’s fields. 
 *	This can now only be edited by you but can be viewed by any user in our group.
 
-### 3. Elabjournal <[Benchling diagram](https://user-images.githubusercontent.com/82829415/140583062-0db8ae4d-f606-43db-be23-8b5015bf2bbf.png)
-=""></a>:
+### 3. Elabjournal <a name="Elabjournal"></a>:
 
 #### a.	Description and Intro 
 
